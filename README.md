@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lina
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning, learning and learning
-- 💞️ I’m looking to collaborate on social and digital investigations and not only
+- 👀 I’m interested in cyber security and cloud
+- 🌱 I’m currently preparing for my az-104
+- 💞️ I’m looking for organisations or individuals working on cloud and cybersecurity projects
 - 📫 How to reach me e.gyulkhandanyan@gmail.com
 
 <!---
