@@ -1,10 +1,5 @@
-- 👋 Hi, I’m lina
-- 👀 I’m interested in cyber security and cloud
-- 🌱 I’m currently preparing for az-104
-- 💞️ I’m looking for organisations or individuals working on cloud and cybersecurity projects
-- 📫 How to reach me e.gyulkhandanyan@gmail.com
-
-<!---
-gyulkhandanyan/gyulkhandanyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in cyber security and cloud technologies, and I'm passionate about exploring their intersection.
+Currently, I'm actively preparing for the AZ-104 certification, focusing on expanding my knowledge and skills in Azure administration.
+I'm eager to collaborate with organisations or individuals involved in exciting cloud and cybersecurity projects. I'm always seeking opportunities to contribute and learn from like-minded professionals.
+You can reach me at e.gyulkhandanyan@gmail.com. I'm open to discussions, collaborations, and networking opportunities in the fields of cloud and cybersecurity.
+Looking forward to connecting and exploring new possibilities together!
